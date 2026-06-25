@@ -13,12 +13,17 @@
 ¿Qué se evidenció sobre el comportamiento del usuario?
 
 
+
 📊Objetivos del proyecto:
 
 ▶️1. Construir embudos multietapa en SQL usando CTEs.
+
 ▶️2. Calcular tasas de conversión entre pasos y detectar caídas.
+
 ▶️3. Analizar la retención de usuarios por cohortes.
+
 ▶️4. Simular mejoras en conversión o retención.
+
 ▶️5. Validar resultados y comunicar hallazgos ejecutivos.
 
 
